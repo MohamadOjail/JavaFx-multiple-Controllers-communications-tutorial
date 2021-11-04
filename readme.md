@@ -3,7 +3,6 @@ The example shows how to establish communication between multiple Controllers as
 > What do we want to achieve:
 
 - Inject sub FXML files into the parent FXML.
-- Inject the sub FXML files into each other.
 - Create instance of the controllers into each of the other ones.
 - Call methods that exist in a controller from another one.
 
